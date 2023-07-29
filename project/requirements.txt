@@ -1,0 +1,6 @@
+cv2
+csv
+pyttsx3
+validator_collection
+pyzbar
+prettytable
